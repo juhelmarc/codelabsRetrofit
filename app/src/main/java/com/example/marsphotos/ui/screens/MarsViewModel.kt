@@ -31,11 +31,11 @@ class MarsViewModel : ViewModel() {
     init {
         getMarsPhotos()
     }
-
+    //ttetete
     /**
      * Gets Mars photos information from the Mars API
      */
     fun getMarsPhotos() {
-        marsUiState = "Set the Mars API status response here!"
+        marsUiState = "Set the Mars API status response here toto!"
     }
 }
